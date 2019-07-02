@@ -5,7 +5,9 @@
   "main": "index.js",
   "dependencies": {},
   "scripts": {},
-  "devDependencies": {},
+  "devDependencies": {
+    "tslint": "^5.18.0"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ydh0520/TypeScript.git"
