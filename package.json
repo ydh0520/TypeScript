@@ -1,0 +1,22 @@
+{
+  "name": "typescript",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "typescript": "^3.5.2"
+  },
+  "scripts":{
+    "transpile":"tsc test.ts"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ydh0520/TypeScript.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/ydh0520/TypeScript/issues"
+  },
+  "homepage": "https://github.com/ydh0520/TypeScript#readme"
+}
